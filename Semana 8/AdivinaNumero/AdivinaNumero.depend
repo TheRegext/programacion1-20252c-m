@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1759502718 source:e:\github\educacion\utn\programacion1-20252c-m\semana 8\adivinanumero\main.cpp
+	<iostream>
+	<ctime>
+	"juego.h"
+
+1759504074 source:e:\github\educacion\utn\programacion1-20252c-m\semana 8\adivinanumero\jugar.cpp
+	<iostream>
+	"juego.h"
+	"aleatorios.h"
+
+1759504086 e:\github\educacion\utn\programacion1-20252c-m\semana 8\adivinanumero\juego.h
+
+1759503022 source:e:\github\educacion\utn\programacion1-20252c-m\semana 8\adivinanumero\aleatorios.cpp
+	<iostream>
+	"aleatorios.h"
+
+1759502963 e:\github\educacion\utn\programacion1-20252c-m\semana 8\adivinanumero\aleatorios.h
+
