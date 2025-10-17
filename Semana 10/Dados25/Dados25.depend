@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1760710143 source:e:\github\educacion\utn\programacion1-20252c-m\semana 10\dados25\pantalla.cpp
+	<iostream>
+	"pantalla.h"
+
+1760710263 e:\github\educacion\utn\programacion1-20252c-m\semana 10\dados25\pantalla.h
+
+1760712252 source:e:\github\educacion\utn\programacion1-20252c-m\semana 10\dados25\main.cpp
+	<iostream>
+	<ctime>
+	"pantalla.h"
+	"jugar.h"
+
+1760713187 e:\github\educacion\utn\programacion1-20252c-m\semana 10\dados25\jugar.h
+
+1760713326 source:e:\github\educacion\utn\programacion1-20252c-m\semana 10\dados25\jugar.cpp
+	<iostream>
+	"jugar.h"
+
